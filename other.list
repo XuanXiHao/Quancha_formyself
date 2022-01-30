@@ -1,0 +1,11 @@
+ # > 误杀，解决其他人的大类分流规则
+
+host-suffix, amdc.m.taobao.com, direct
+host-suffix, live.net, proxy
+host-suffix, onenote.com, proxy
+host-suffix, office.com, direct
+host-suffix, api.onedrive.com, direct
+host-suffix, microsoft.com, direct
+host-suffix, outlook.office.com, direct
+host-suffix, live.com, direct
+host-suffix, snssdk.com, direct
