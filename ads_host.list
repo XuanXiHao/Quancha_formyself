@@ -1,0 +1,71 @@
+# > 自己拦截广告
+
+host, ipm.atm.youku.com, reject
+host, ems.youku.com, reject
+host-suffix, yktd.m.cn.miaozhen.com, reject
+host, mi.gdt.qq.com, reject
+host-suffix, pgdt.ugdtimg.com, reject
+
+host-suffix, pgdt.gtimg.cn, reject
+host-suffix, adsmind.gdtimg.com, reject
+host-suffix, adstrategy.biz.weibo.com, reject
+host-suffix, adimg.uve.weibo.com, reject
+host-suffix, adstrategy.biz.weibo.com, reject
+host-suffix, ad.us.sinaimg.cn, reject
+host-suffix, adimg.uve.weibo.com, reject
+
+
+host-keyword, -wbnormal-lf.toutiaoapi.com, reject
+host-keyword, -ipv6.pstatp.com, reject
+host-keyword, -ad-sign, reject
+host-suffix, p9-ad-sign.byteimg.com, reject
+host-suffix, p6-ad-sign.byteimg.com, reject
+host-suffix, als.baidu.com, reject
+host-suffix, pangolin.snssdk.com, reject
+host-suffix, sf3-fe-tos.pglstatp-toutiao.com, reject
+
+host, mgcdn.sitezt.cn, reject
+host, ali-stats.jpush.cn, reject
+host, img10.360buyimg.com, reject
+host, community-data.s3-cache-accelerate.cn-north-1.jdcloud-oss.com, reject
+
+host-suffix, ali-ec.static.yximgs.com, reject
+host-suffix, feed-image.baidu.com, reject
+host-suffix, aod-image.baidu.com, reject
+
+host-suffix, adservice.kugou.com, reject
+host-suffix, ads.service.kugou.com, reject
+host-suffix, amsweb-cdn-gz-1258344696.file.myqcloud.com, reject
+host-suffix, adsfile.kugou.com, reject
+host-suffix, splashimgbssdl.ali.kugou.com, reject
+host-suffix, ads.gateway.kugou.com, reject
+host-suffix, s3.fx.kgimg.com, reject
+host-suffix, fxbssdl.kgimg.com, reject
+host-suffix, p3.fx.kgimg.com, reject
+host-suffix, acshow.kugou.com, reject
+host-suffix, fx.service.kugou.com, reject
+host-suffix, nbcollectretry.kugou.com, reject
+host-suffix, nbcollect.kugou.com, reject
+host-suffix, musicmall.kugou.com, reject
+host-suffix, tmeadcomm.y.qq.com, reject
+host-suffix, hwstore.kugou.com, reject
+host, adserviceretry.kglink.cn, reject
+host, pgdt.gtimg.cn, reject
+host, adsfile.bssdlbig.kugou.com, reject
+host, splashimgbssdl.yun.kugou.com, reject
+host-suffix, adstats.tencentmusic.com, reject
+host-suffix, ad.tencentmusic.com, reject
+
+host-suffix, ads-video-al.xhscdn.com, reject
+host-suffix, ads-img-al.xhscdn.com, reject
+
+host-suffix, optimus-ads.amap.com, reject
+host-keyword, o2o-ad-dev.oss, reject
+host-suffix, o2o-ad-dev.oss-cn-shanghai.aliyuncs.com, reject
+host-suffix, trackingprd.hwwt8.com, reject
+host-suffix, stm-collect.cn.miaozhen.com, reject
+
+host-suffix, eimg.smzdm.com, reject
+
+
+
