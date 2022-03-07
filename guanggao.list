@@ -25082,7 +25082,6 @@ HOST-SUFFIX,adsrvmedia.com,reject
 HOST-SUFFIX,adsrvmedia.net,reject
 HOST-SUFFIX,adsrvr.org,reject
 HOST-SUFFIX,adss.dotdo.net,reject
-HOST-SUFFIX,adss.video.qq.com,reject
 HOST-SUFFIX,adssend.net,reject
 HOST-SUFFIX,adsstatic.vivo.com.cn,reject
 HOST-SUFFIX,adstarget.net,reject
@@ -28254,7 +28253,6 @@ HOST-SUFFIX,beacon.lycos.com,reject
 HOST-SUFFIX,beacon.netflix.com,reject
 HOST-SUFFIX,beacon.nrholding.net,reject
 HOST-SUFFIX,beacon.nuskin.com,reject
-HOST-SUFFIX,beacon.qq.com,reject
 HOST-SUFFIX,beacon.riskified.com,reject
 HOST-SUFFIX,beacon.rum.dynapis.com,reject
 HOST-SUFFIX,beacon.searchspring.io,reject
@@ -29311,8 +29309,6 @@ HOST-SUFFIX,btnldivewzzfso.com,reject
 HOST-SUFFIX,btonzfjleinuax.com,reject
 HOST-SUFFIX,btpnav.com,reject
 HOST-SUFFIX,btr.domywife.com,reject
-HOST-SUFFIX,btrace.qq.com,reject
-HOST-SUFFIX,btrace.video.qq.com,reject
 HOST-SUFFIX,btrll.com,reject
 HOST-SUFFIX,bts05.site,reject
 HOST-SUFFIX,btserve.com,reject
@@ -44794,12 +44790,10 @@ HOST-SUFFIX,liveintent.com,reject
 HOST-SUFFIX,livejasmin.com,reject
 HOST-SUFFIX,livejasmin.tv,reject
 HOST-SUFFIX,livelyoffers.club,reject
-HOST-SUFFIX,livep.l.ott.video.qq.com,reject
 HOST-SUFFIX,liveprivates.com,reject
 HOST-SUFFIX,livepromotools.com,reject
 HOST-SUFFIX,liverail.com,reject
 HOST-SUFFIX,lives.l.cp81.ott.cibntv.net,reject
-HOST-SUFFIX,lives.l.ott.video.qq.com,reject
 HOST-SUFFIX,livesegmentservice.com,reject
 HOST-SUFFIX,livesession.io,reject
 HOST-SUFFIX,livesexasian.com,reject
@@ -47721,7 +47715,6 @@ HOST-SUFFIX,mfeed.newzfind.com,reject
 HOST-SUFFIX,mfhgehrnafra.com,reject
 HOST-SUFFIX,mfio.cf,reject
 HOST-SUFFIX,mfk-cpm.com,reject
-HOST-SUFFIX,mfm.video.qq.com,reject
 HOST-SUFFIX,mfsr.lenovomm.com,reject
 HOST-SUFFIX,mftmyrzoxtfx.com,reject
 HOST-SUFFIX,mftracking.com,reject
@@ -54092,7 +54085,6 @@ HOST-SUFFIX,rcaiv.com,reject
 HOST-SUFFIX,rcblkkhfvrxyn.com,reject
 HOST-SUFFIX,rceableinte.club,reject
 HOST-SUFFIX,rcentratiumd.space,reject
-HOST-SUFFIX,rcgi.video.qq.com,reject
 HOST-SUFFIX,rchitereach.info,reject
 HOST-SUFFIX,rcm-cn.amazon.cn,reject
 HOST-SUFFIX,rcm.shinobi.jp,reject
@@ -63026,7 +63018,6 @@ HOST-SUFFIX,uopvdbudoe.com,reject
 HOST-SUFFIX,uoredi.com,reject
 HOST-SUFFIX,uoyrsd.com,reject
 HOST-SUFFIX,up-cookiemon.wavecdn.net,reject
-HOST-SUFFIX,up-hl.3g.qq.com,reject
 HOST-SUFFIX,up-rank.com,reject
 HOST-SUFFIX,up.boston.com,reject
 HOST-SUFFIX,up.clscsbcj.com,reject
