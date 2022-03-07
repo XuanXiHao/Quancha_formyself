@@ -792,7 +792,7 @@ DOMAIN,adsapi.snapchat.com,REJECT
 # --- (Tencent) ---
 DOMAIN-SUFFIX,e.qq.com,REJECT
 DOMAIN-SUFFIX,gdt.qq.com,REJECT
-DOMAIN-SUFFIX,l.qq.com,REJECT
+# DOMAIN-SUFFIX,l.qq.com,REJECT
 DOMAIN,adsmind.apdcdn.tc.qq.com,REJECT
 DOMAIN,adsmind.gdtimg.com,REJECT
 DOMAIN,adsmind.tc.qq.com,REJECT
