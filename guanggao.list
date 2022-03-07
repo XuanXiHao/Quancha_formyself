@@ -43989,7 +43989,7 @@ HOST-SUFFIX,l.m.naver.com,reject
 HOST-SUFFIX,l.mnjkw.cn,reject
 HOST-SUFFIX,l.ooyala.com,reject
 HOST-SUFFIX,l.player.ooyala.com,reject
-HOST-SUFFIX,l.qq.com,reject
+#HOST-SUFFIX,l.qq.com,reject
 HOST-SUFFIX,l.support.canva.com,reject
 HOST-SUFFIX,l.thumbtack.com,reject
 HOST-SUFFIX,l.typesquare.com,reject
@@ -61447,7 +61447,7 @@ HOST-SUFFIX,trace-2000.com,reject
 HOST-SUFFIX,trace.events,reject
 HOST-SUFFIX,trace.insead.edu,reject
 HOST-SUFFIX,trace.m1905.cn,reject
-HOST-SUFFIX,trace.qq.com,reject
+# HOST-SUFFIX,trace.qq.com,reject
 HOST-SUFFIX,trace.ynet.com,reject
 HOST-SUFFIX,traceaccounc.club,reject
 HOST-SUFFIX,tracead.com,reject
@@ -64567,7 +64567,7 @@ HOST-SUFFIX,webstats4u.com,reject
 HOST-SUFFIX,webt.pure.com,reject
 HOST-SUFFIX,webtalking.ru,reject
 HOST-SUFFIX,webteaser.ru,reject
-HOST-SUFFIX,webterren.com,reject
+# HOST-SUFFIX,webterren.com,reject
 HOST-SUFFIX,webtrack.biz,reject
 HOST-SUFFIX,webtracker.apicasystem.com,reject
 HOST-SUFFIX,webtracker.jp,reject
