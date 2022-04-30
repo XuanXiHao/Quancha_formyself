@@ -20,14 +20,14 @@ host-suffix, ad.us.sinaimg.cn, reject
 host-suffix, adimg.uve.weibo.com, reject
 
 
-host-keyword, -wbnormal-lf.toutiaoapi.com, reject
-host-keyword, -ipv6.pstatp.com, reject
+#host-keyword, -wbnormal-lf.toutiaoapi.com, reject
+#host-keyword, -ipv6.pstatp.com, reject
 host-keyword, -ad-sign, reject
-host-suffix, p9-ad-sign.byteimg.com, reject
-host-suffix, p6-ad-sign.byteimg.com, reject
-host-suffix, als.baidu.com, reject
-host-suffix, pangolin.snssdk.com, reject
-host-suffix, sf3-fe-tos.pglstatp-toutiao.com, reject
+#host-suffix, p9-ad-sign.byteimg.com, reject
+#host-suffix, p6-ad-sign.byteimg.com, reject
+#host-suffix, als.baidu.com, reject
+#host-suffix, pangolin.snssdk.com, reject
+#host-suffix, sf3-fe-tos.pglstatp-toutiao.com, reject
 
 host, mgcdn.sitezt.cn, reject
 host, ali-stats.jpush.cn, reject
