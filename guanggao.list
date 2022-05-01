@@ -9915,7 +9915,7 @@ HOST,i.clickagy.com,reject
 HOST,i.mxplayer.j2inter.com,reject
 HOST,i.rdldtrk.com,reject
 HOST,i.smartwebads.com,reject
-HOST,i.snssdk.com,reject
+#HOST,i.snssdk.com,reject
 HOST,i.tianqi.com,reject
 HOST,i.utdstc.com,reject
 HOST,i1.dl-ad.com,reject
@@ -33810,7 +33810,7 @@ HOST-SUFFIX,diffusion-tracker.com,reject
 HOST-SUFFIX,difnxm.cn,reject
 HOST-SUFFIX,dig.bdurl.net,reject
 HOST-SUFFIX,dig.qbao.com,reject
-HOST-SUFFIX,dig.zjurl.cn,reject
+#HOST-SUFFIX,dig.zjurl.cn,reject
 HOST-SUFFIX,digadser.com,reject
 HOST-SUFFIX,digdug.divxnetworks.com,reject
 HOST-SUFFIX,digeyule.xyz,reject
@@ -46667,7 +46667,7 @@ HOST-SUFFIX,mcore.vcgame.cn,reject
 HOST-SUFFIX,mcprofits.com,reject
 HOST-SUFFIX,mcs-va.tiktokv.com,reject
 HOST-SUFFIX,mcs.delvenetworks.com,reject
-HOST-SUFFIX,mcs.snssdk.com,reject
+#HOST-SUFFIX,mcs.snssdk.com,reject
 HOST-SUFFIX,mct.etherscan.com,reject
 HOST-SUFFIX,mct01.com,reject
 HOST-SUFFIX,mcteu.cn,reject
