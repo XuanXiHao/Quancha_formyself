@@ -603,7 +603,7 @@ IP-CIDR,124.192.153.42/32,REJECT
 # > ByteDance
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 DOMAIN,ad.toutiao.com,REJECT
-DOMAIN,pangolin.snssdk.com,REJECT
+#DOMAIN,pangolin.snssdk.com,REJECT
 # > baicizhan
 DOMAIN,advertise.baicizhan.com,REJECT
 DOMAIN,advertise.baicizhan.org,REJECT
