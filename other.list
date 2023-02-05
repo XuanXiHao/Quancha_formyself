@@ -8,4 +8,3 @@ host-suffix, api.onedrive.com, direct
 host-suffix, microsoft.com, direct
 host-suffix, outlook.office.com, direct
 host-suffix, live.com, direct
-#host-suffix, snssdk.com, direct
